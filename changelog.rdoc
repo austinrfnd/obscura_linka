@@ -1,5 +1,5 @@
-=== next release
-- IE 8 Fixes & removed jQuery dependency
+=== 0.4.1
+- IE 8 Fixes & removed jQuery dependency ( thanks @kylethewizkid )
 
 === 0.4.0
 
